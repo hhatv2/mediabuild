@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mediabuild" name="Media Build Wizard" version="1.1" provider-name="Tony McGarry">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Media Build Wizard</summary>
+    <description lang="en">One stop build installation wizard. A cool facelift to Eminence 2.0 with the most recent add ons for your viewing and listening  pleasure....enjoy!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
