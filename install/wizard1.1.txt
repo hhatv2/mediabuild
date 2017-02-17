@@ -1,0 +1,5 @@
+name="Media Build Wizard"
+url="https://mediabuild.000webhostapp.com/files/install/build1.1.zip"
+img="https://mediabuild.000webhostapp.com/files/install/icon.png"
+fanart="https://mediabuild.000webhostapp.com/files/install/bg.jpg"
+description="Media Build v1.1 - (Skin - Eminence 2.0) - by Tony McGarry "
