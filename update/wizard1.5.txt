@@ -1,5 +1,5 @@
 name="Media Build Updater"
 url="https://mediabuild.000webhostapp.com/files/update/build1.5.zip"
-img="https://mediabuild.000webhostapp.com/files/update/icon.png"
-fanart="https://mediabuild.000webhostapp.com/files/update/bg.jpg"
+img="https://github.com/hhatv2/mediabuild/blob/master/update/icon.png"
+fanart="https://github.com/hhatv2/mediabuild/blob/master/update/bg.jpg"
 description="Update for Media build - v1.5 - 16/02/17 - (Skin Eminence 2.0) - by Tony McGarry "
