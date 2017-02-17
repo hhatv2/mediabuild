@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mediabuild" name="[COLOR red]Media Build[/COLOR] [COLOR white]Repository[/COLOR]" version="1.0" provider-name="Tony McGarry">
+	<extension point="xbmc.addon.repository" name="Media Build">
+		<info compressed="false">https://github.com/hhatv2/mediabuild/blob/master/plugins/addons.xml</info>
+        <checksum>https://github.com/hhatv2/mediabuild/blob/master/plugins/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/hhatv2/mediabuild/blob/master/plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Media Build Repo.</summary>
+		<description>Support available at hhatv2@gmail.com</description>
+		<platform>all</platform>
+	</extension>
+</addon>
